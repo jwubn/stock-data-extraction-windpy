@@ -1,1 +1,2 @@
 # StockDataExtractionWithWindPy
+# notes_CN
